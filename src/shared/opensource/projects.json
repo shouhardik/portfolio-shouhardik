@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "Alzheimer’s Early Detection",
+      "createdAt": "2024-05-15T05:12:19Z",
+      "url": "https://github.com/shouhardik/Alzheimers-early-detection",
+      "description": "An AI model was developed to analyze brain scans, aiming to detect patterns indicative of neurological disorders. This involved comprehensive data analysis, including intensity normalization, image segmentation, and augmentation techniques. The model architecture utilized a Convolutional Neural Network (CNN) with two convolutional layers, each followed by max-pooling, batch normalization, and dropout layers. These layers were instrumental in capturing complex patterns within the data. Additionally, Bayesian optimization was employed to explore the hyperparameter space and optimize the model's performance, specifically maximizing validation accuracy",
       "isFork": false,
       "languages": [
         {
@@ -13,110 +13,142 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Keras",
+          "iconifyClass": "devicon-keras"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "E-commerce Web Application",
+      "createdAt": "2023-03-13T21:31:33Z",
+      "url": "https://shouhardik-qkart-frontend.netlify.app/",
+      "description": "Designed and implemented business functionality for e-commerce web application build on React.js. The optimized code involved Sign-up, Login, Cart, Product list and Payment Gateway modules. Performed Debouncing timeout to reduce API request to server and employed Session Storage to manage and persist user data. Cart functionality enabled users to purchase customizable quantities of home appliances and garments based on the diverse needs of customer ",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "logos-netlify"
+        },
+        {
+          "name": "Material UI",
+          "iconifyClass": "logos-material-ui"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Skin Cancer Classifier",
+      "createdAt": "2023-01-06T16:26:54Z",
+      "url": "https://www.kaggle.com/code/harshal0902/major-project-skin-cancer-classifier",
+      "description": "Carried out exploratory data analysis, model building, setting optimizer, fitting and evaluation and performed train-test split on, 10000+ dermatoscopic images.  Deployed IPFS nodes to store and distribute data across network. Worked on image functionality upload in the web application.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Pandas",
+          "iconifyClass": "logos-pandas"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "NumPy",
+          "iconifyClass": "logos-numpy"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Scikit-learn",
+          "iconifyClass": "logos-scikit-learn"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Keras",
+          "iconifyClass": "devicon-keras"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Object Detection using CNN",
+      "createdAt": "2022-07-15T12:50:20Z",
+      "url": "https://github.com/shouhardik/YOLO_NeuralNetworks",
+      "description": "Implemented YOLO (You only look once) algorithm for object detection of multiple vehicles. Performed bounding box prediction using Intersection over Union. Kalman filter is used to predict future states of object. DeepSORT is used to track vehicles in complex scenarios based on their linear velocity and appearance.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Pandas",
+          "iconifyClass": "logos-pandas"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "NumPy",
+          "iconifyClass": "logos-numpy"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Scikit-learn",
+          "iconifyClass": "logos-scikit-learn"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Keras",
+          "iconifyClass": "logos-keras"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Qeats",
+      "createdAt": "2023-05-10T12:56:07Z",
+      "url": "https://github.com/shouhardik/Qeats",
+      "description": "Developed a food ordering app for users to browse and order dishes from nearby restaurants. Implemented Model-View-Controller (MVC) architecture using Spring Boot to ensure modular and maintainable code. Designed and developed RESTful APIs for seamless interaction between the front-end and back-end services. Optimized database operations and managed data persistence using MongoDB, enhancing query performance and scalability",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "name": "Solar Energy Prediction",
+      "createdAt": "2022-01-01T08:31:51Z",
+      "url": "https://github.com/shouhardik/solar-energy-prediction",
+      "description": "Made solar predictions using LGBM and Random Forest algorithms. I processed large sets of data on the basis of geographical location, and weather to analyze power outputs from horizontal photovoltaics from 12 locations across northern hemisphere. The output predictions are used in the integrations of solar photovoltaics into electrical grid systems.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Pandas",
+          "iconifyClass": "logos-pandas"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "NumPy",
+          "iconifyClass": "logos-numpy"
+        },
+        {
+          "name": "Scikit-learn",
+          "iconifyClass": "logos-scikit-learn"
+        },
+        {
+          "name": "Seaborn",
+          "iconifyClass": "logos-seaborn"
         }
       ]
     }
